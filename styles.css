@@ -1,0 +1,150 @@
+*{
+    font-family:Arial;
+}
+nav{
+    display: inline-block;
+    width:2000px;
+    background-color: #dfbe66;
+    word-spacing:100px;
+    position:fixed;
+    left:0;
+    top:0;
+    border: 3px solid wheat;
+    font-weight: bold;
+    text-align: left;
+}
+.title{
+    margin-top:120px;
+    margin-bottom:30px ;
+    margin-left:40px;
+}
+.font-strong{
+    font-weight:bold;
+}
+.font-cursive{
+    font-style:italic;
+}
+.pink{
+    background-color:#d957d9;
+    display:flexbox;
+    width: 500px;
+    height: 50px;
+    margin-bottom:0;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-weight:bold;
+}
+.blue{
+    background-color:#2d5dcc;
+    color:white;
+    display:flexbox;
+    width: 500px;
+    height: 50px;
+    margin-bottom:0;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-weight:bold;
+}
+.green{
+    background-color:#4fe0b0;
+    display:flexbox;
+    width: 500px;
+    height: 50px;
+    margin-bottom:0;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-weight:bold;
+}
+.beige{
+    background-color:#efd9ca;
+    display:flexbox;
+    width: 500px;
+    height: 50px;
+    margin-bottom:0;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-weight:bold;
+}
+.poppins{
+    font-family:"poppins";
+}
+.nunito-sans{
+    font-family:"nunito sans";
+}
+.source-code{
+    font-family:"Source Code Pro";
+}
+.font-name{
+    font-size:27px;
+    text-decoration:underline;
+}
+.fonts{
+    border: 3px solid wheat;
+    display:block;
+    width:auto;
+    padding: 10px 20px;
+    margin: 10px;
+    border-spacing: 50px 20px;
+}
+tr{
+    margin:200px;
+}
+.h1-example{
+    Font-weight:700(bold);
+    Font-size:26px;
+    Font-Family: Nunito Sans;
+}
+.h2-example{
+    Font-weight:500;
+    Font-size:18px;
+    Font-Family: Popins;
+}
+.p-example{
+    Font-weight:400(regular);
+    Font-size:14px;
+    Font-Family: Poppins;
+}
+div{
+    display:block;
+    width:auto;
+    border: 3px solid wheat;
+    margin: 10px;
+    padding: 30px 60px;
+    
+}
+footer{
+    display:block;
+    width:auto;
+    border: 3px solid wheat;
+    margin: 0;
+    padding: 10px 30px;
+    color:#737373;
+    background-color:#26272b;
+    
+}
+.media-link{
+    color: whitesmoke;
+    word-spacing:200px;
+    margin-left:0;
+  }
+.color-table{
+    display:block;
+    width:auto;
+    border: 3px solid wheat;
+    margin: 10px;
+    padding: 10px 60px 30px 60px;
+      
+  }
+h2{
+    text-align: left;
+    margin: 10px;
+    font-weight: bold;
+}
+  .font tr{
+      padding: 200px;
+
+  }
